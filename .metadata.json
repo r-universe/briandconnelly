@@ -1,5 +1,9 @@
 [
   {
+    "package": "airnow",
+    "oncran": true
+  },
+  {
     "package": "pushoverr",
     "oncran": true
   }

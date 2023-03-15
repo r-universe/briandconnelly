@@ -1,10 +1,10 @@
 [
   {
-    "package": "pushoverr",
+    "package": "airnow",
     "oncran": true
   },
   {
-    "package": "airnow",
+    "package": "pushoverr",
     "oncran": true
   }
 ]

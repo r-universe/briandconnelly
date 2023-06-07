@@ -8,6 +8,11 @@
 	url = https://github.com/briandconnelly/airnow
 	shallow = true
 	registered = true
+[submodule "ami"]
+	path = ami
+	url = https://github.com/briandconnelly/ami
+	shallow = true
+	registered = true
 [submodule "pushoverr"]
 	path = pushoverr
 	url = https://github.com/briandconnelly/pushoverr

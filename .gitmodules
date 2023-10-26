@@ -8,6 +8,9 @@
 [submodule "ami"]
 	path = ami
 	url = https://github.com/briandconnelly/ami
+[submodule "envvar"]
+	path = envvar
+	url = https://github.com/briandconnelly/envvar
 [submodule "pushoverr"]
 	path = pushoverr
 	url = https://github.com/briandconnelly/pushoverr
